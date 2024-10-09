@@ -2,6 +2,9 @@
 Hi! I'm Cheong Jin Xuan, a student in the Software Maintenance and Evolution course.
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
+- **Fun fact**: I love taking a ride in my free time.
+- **Course expectations**: To gain hands-on experience in maintaining and evolving software.
+
 You can view my personalized GitHub profile
 [here](https://github.com/MoneyCheongJx).
 
